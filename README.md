@@ -14,8 +14,7 @@ Functional Requirements
 	- Display on ASCII the "icons" for different types of files;
 	- Highlight selected file/directory;
 	- (?) Show file properties;
-	- (?) Suport sorting files;
-	- (?) Move files across directories.
+	- (?) Suport sorting files.
 
 3. Search Functionalities:
 	- Search by name;
