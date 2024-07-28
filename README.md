@@ -1,8 +1,8 @@
 # TUI File Browser
 
-## <details><summary>Requirements</summary>
+<details><summary>Requirements</summary>
 
-### Functional Requirements
+Functional Requirements
 
 1. Navigation
 	- Display list of files and directories in the current directory;
